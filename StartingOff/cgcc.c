@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "tcc.h"
+#include "cgcc.h"
 #include "y.tab.h"
 
 /*

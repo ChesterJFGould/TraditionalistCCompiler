@@ -1,6 +1,6 @@
 %{
 #include <stdio.h>
-#include "tcc.h"
+#include "cgcc.h"
 
 extern int yylex(void);
 

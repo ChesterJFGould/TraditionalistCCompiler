@@ -1,7 +1,7 @@
 %{
 #include <stdio.h>
 
-#include "tcc.h"
+#include "cgcc.h"
 #include "y.tab.h"
 %}
 

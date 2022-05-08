@@ -6,8 +6,8 @@
 !runtime/
 !runtime/*
 
-!tcc.c
-!tcc.h
+!cgcc.c
+!cgcc.h
 
 !lex.l
 !parse.y
