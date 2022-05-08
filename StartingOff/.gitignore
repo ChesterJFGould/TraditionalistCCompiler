@@ -1,0 +1,14 @@
+*
+
+!examples/
+!examples/*
+
+!runtime/
+!runtime/*
+
+!tcc.c
+!tcc.h
+!lex.l
+!parse.y
+!compile.sh
+!.gitignore
